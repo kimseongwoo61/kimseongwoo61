@@ -17,8 +17,7 @@ I am on a journey to deepen my knowledge and skills in cybersecurity, with a par
 
 Feel free to reach out if you have any questions, collaboration ideas, or if you just want to chat about security technology!
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Email**: [kimseongwoo61@gmail.com](mailto:kimseongwoo61@gmail.com)
 
 ## 📚 Projects
 
@@ -38,3 +37,10 @@ For details on the projects I’m working on, please refer to my repositories.
 - **Special Thanks**: To mentors and peers who support and guide my journey.
 
 Good afternoon, good evening, and good night! 😄
+
+---
+
+<div align="center">
+  <img src="https://github.com/kimseongwoo61/kimseongwoo61/blob/main/truman-show.jpg" alt="The Truman Show" style="max-width: 600px; width: 100%; height: auto;" />
+  <p><i>"Good afternoon, good evening, and good night!"</i></p>
+</div>
